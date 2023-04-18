@@ -1,6 +1,4 @@
 # Energy-efficiency-prediction
-
-
 Energy efficiency prediction using machine learning can be useful in various industries, including building management and renewable energy. The goal is to use data from buildings or other energy systems to predict energy consumption or efficiency, which can help identify areas for improvement and optimize energy usage.
 
 The following are the general steps to implement a machine learning model for energy efficiency prediction:
